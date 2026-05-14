@@ -1,2 +1,3 @@
-# notes
-Anotações sobre diversos temas
+# Anotações
+
+Repositório para rascunho sobre vários temas :-)
